@@ -18,6 +18,20 @@
     display: flex;
     align-items: center
 }
+@media (max-width: 960px) {
+    .clients .row {
+        display: inline-block;
+    }
+	.col-3 {
+        width: 100% !important;
+        text-align: center;
+        display: block;
+    }
+    .clients img {
+    width: 80%;
+    margin-bottom: 24px;
+    }
+}
 
 </style>
 

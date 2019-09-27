@@ -54,6 +54,16 @@
   }
   .strict.row [class^=col] {margin: .5rem 1%}
   .strict .col-3 {width: 23%}
+
+
+@media (max-width: 960px) {
+	.col-3 {
+        width: 100% !important;
+        text-align: center;
+        display: block;
+	}
+}
+
 </style>
 
 

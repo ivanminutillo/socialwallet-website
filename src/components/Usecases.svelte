@@ -38,6 +38,13 @@
       margin-bottom: 16px;
       width: 96px;
   }
+  @media (max-width: 960px) {
+	.col-3 {
+        width: 100% !important;
+        text-align: center;
+        display: block;
+	}
+}
 </style>
 
 

@@ -105,6 +105,15 @@ import Header from './Nav.svelte'
 	.logo {
 		width: 80%;
 	}
+
+	@media (max-width: 960px) {
+	  .logo {display: none;}
+	  .right {
+		  text-align: left;
+		  margin-top: -32px;
+		  margin-bottom: 40px;
+	  }
+	}
 </style>
 
 <section class="hero">
