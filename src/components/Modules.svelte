@@ -57,7 +57,7 @@
 </style>
 
 
-<section class="modules">
+<section id="modules" class="modules">
 <div class="row">
 <div class="col-12">
   <h2 class="title"><span class="icon"><img alt="modules" src="modules.png" /></span>Modules not framework</h2>

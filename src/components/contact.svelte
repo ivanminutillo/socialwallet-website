@@ -30,7 +30,7 @@
 
 </style>
 
-<section class="contact">
+<section id="contact" class="contact">
     <div class="row">
         <div class="col-6">
             <h2 class="title"><span class="icon"><img alt="contact" src="contact.png" /></span>Get in touch</h2>

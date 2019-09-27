@@ -41,15 +41,16 @@
 		font-family: 'Baloo Bhaijaan', cursive;
 		font-weight: 500;
 		text-rendering: optimizeLegibility;
+		color: white;
 	}
 </style>
 <div class="container">
 <nav class="row">
 	<ul>
-		<li><a class='{segment === undefined ? "selected" : ""}' href='.'>about</a></li>
-		<li><a class='{segment === "modules" ? "selected" : ""}' href='about'>modules</a></li>
-		<li><a class='{segment === "media" ? "selected" : ""}' href='.'>media</a></li>
-		<li><a class='{segment === "contact" ? "selected" : ""}' href='about'>contact us</a></li>
+		<li><a class='{segment === "modules" ? "selected" : ""}' href='#modules'>modules</a></li>
+		<li><a class='{segment === undefined ? "selected" : ""}' href='#usecases'>usecases</a></li>
+		<li><a class='{segment === "media" ? "selected" : ""}' href='#media'>media</a></li>
+		<li><a class='{segment === "contact" ? "selected" : ""}' href='#contact'>contact us</a></li>
 
 		<!-- for the blog link, we're using rel=prefetch so that Sapper prefetches
 		     the blog data when we hover over the link or tap it on a touchscreen -->

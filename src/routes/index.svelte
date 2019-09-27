@@ -5,7 +5,7 @@
 	import Clients from '../components/clients.svelte';
 	import Media from '../components/media.svelte';
 	import Contact from '../components/contact.svelte';
-
+	import Footer from '../components/footer.svelte'
 </script>
 
 
@@ -13,8 +13,8 @@
 	<title>The social wallet</title>
 </svelte:head>
 
+<Hero />
 <div class="container">
-	<Hero />
 	<Modules />
 	<Usecases />
 </div>
@@ -23,4 +23,5 @@
 	<Media />
 	<Contact />
 </div>
+<Footer />
 

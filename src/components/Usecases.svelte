@@ -41,7 +41,7 @@
 </style>
 
 
-<section class="usecases">
+<section id="usecases" class="usecases">
 <div class="row">
 <div class="col-12">
   <h2 class="title"><span class="icon">

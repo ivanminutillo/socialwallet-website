@@ -58,7 +58,7 @@
 a {text-decoration: none}
 </style>
 
-<section class="media">
+<section id="media" class="media">
  <div class="row">
     <div class="col-12">
         <h2 class="title"><span class="icon"><img alt="media" src="media.png" /></span>Media</h2>
