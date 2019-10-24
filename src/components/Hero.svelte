@@ -15,18 +15,6 @@ import Header from './Nav.svelte'
 	  padding-top: 40px;
 	}
 
-	h3 {
-		color: white;
-		font-size: 23px;
-		font-weight: 700;
-		margin: 32px 0;
-	}
-
-	h3 img {
-		width: 50px;
-		margin-left: 16px;
-	}
-
 	h1 br {line-height: 0}
 	p {
 	  font-weight: 500;
@@ -105,7 +93,10 @@ import Header from './Nav.svelte'
 	.logo {
 		width: 80%;
 	}
-
+	.or {
+		margin-left: 8px;
+		margin-bottom: 40px;
+	}
 	@media (max-width: 960px) {
 	  .logo {display: none;}
 	  .right {
@@ -125,14 +116,12 @@ import Header from './Nav.svelte'
     social <br />
     wallet</h1>
     <p>Design and manage currencies in a simple and secure way. <br />Made for participatory and democratic organisations aiming to incentivise participation <i>- differently to centralised banking systems -</i> and experiment with different economic models.</p>
-    <h3>Get in touch with us <span><img src="arrow-white.png" alt="arrow" /></span></h3> 
+    <a href="https://socialwallet.dyne.org/" target="blank" class="button">Try a demo <span><img src="arrow.png" alt="arrow" /></span></a>
+		<a href="https://dcentproject.eu/wp-content/uploads/2015/05/D4.4-final_v4.pdf" target="blank" class="or inline">or <u>read the white paper</u></a>
 	</div>
 
-    	<div class="col-6 right">
-		<img src="swlogo.png" alt="logo" class="logo"/>
-		  <a href="https://socialwallet.dyne.org/" target="blank" class="button">Try a demo <span><img src="arrow.png" alt="arrow" /></span></a>
-		  <br />
-		  <a href="https://dcentproject.eu/wp-content/uploads/2015/05/D4.4-final_v4.pdf" target="blank" class="inline">or <u>read the white paper</u></a>
+    <div class="col-6 right">
+			<img src="swlogo.png" alt="logo" class="logo"/>  
 		</div>
 	</div>
     </div>
