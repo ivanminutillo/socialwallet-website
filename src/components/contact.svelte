@@ -33,11 +33,11 @@
 <section id="contact" class="contact">
     <div class="row">
         <div class="col-6">
-            <h2 class="title"><span class="icon"><img alt="contact" src="~/contact.png" /></span>Get in touch</h2>
+            <h2 class="title"><span class="icon"><img alt="contact" src="./contact.png" /></span>Get in touch</h2>
             <h4>Write us a mail at <u>hello [at] socialwallet [dot] app </u> <br />
             or reach us on <a target="blank" href="https://github.com/dyne">github</a></h4>
             <a target="blank" href="https://dyne.org">
-                <img src="~/dyne.png" alt="crafted by dyne"  class="dyne"/>
+                <img src="./dyne.png" alt="crafted by dyne"  class="dyne"/>
             </a>
         </div>
     </div>
