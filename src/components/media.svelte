@@ -61,7 +61,7 @@ a {text-decoration: none}
 <section id="media" class="media">
  <div class="row">
     <div class="col-12">
-        <h2 class="title"><span class="icon"><img alt="media" src="./media.png" /></span>Media</h2>
+        <h2 class="title"><span class="icon"><img alt="media" src="~/media.png" /></span>Media</h2>
         <div class="wrapper">
             <div class="article">
             <a href="https://www.dyne.org/setup-and-running-swapi-with-bitcoin-v0-18/" target="blank">

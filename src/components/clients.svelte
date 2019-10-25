@@ -39,10 +39,10 @@
     <div class="container">
     <h2>Trusted by</h2>
     <div class="row">
-        <div class="col-3"><a target="blank" href="http://macaomilano.org/"><img alt="macao" src="./macao.png" /></a></div>
-        <div class="col-3"><a target="blank" href="https://commonfare.net"><img alt="commonfare" src="./commonfare.png" /></a></div>
-        <div class="col-3"><a target="blank" href="https://www.santarcangelofestival.com/en/"><img alt="santarcangelo" src="./santarcangelo.png" /></a></div>
-        <div class="col-3"><a target="blank" href="https://oltreconomia.info/"><img alt="oltreconomia" src="./oef.png" /></a></div>
+        <div class="col-3"><a target="blank" href="http://macaomilano.org/"><img alt="macao" src="~/macao.png" /></a></div>
+        <div class="col-3"><a target="blank" href="https://commonfare.net"><img alt="commonfare" src="~/commonfare.png" /></a></div>
+        <div class="col-3"><a target="blank" href="https://www.santarcangelofestival.com/en/"><img alt="santarcangelo" src="~/santarcangelo.png" /></a></div>
+        <div class="col-3"><a target="blank" href="https://oltreconomia.info/"><img alt="oltreconomia" src="~/oef.png" /></a></div>
     </div>
     </div>
 </section>

@@ -23,7 +23,7 @@
     <div class="row">
     <div class="col-12">
       <div class="footer_content">
-        <img src="./eu.png" alt="eu"/>
+        <img src="~/eu.png" alt="eu"/>
         <p>Funded from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 68792</p>
       </div>
     </div>

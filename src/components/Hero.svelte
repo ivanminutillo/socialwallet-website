@@ -116,12 +116,12 @@ import Header from './Nav.svelte'
     social <br />
     wallet</h1>
     <p>Design and manage currencies in a simple and secure way. <br />Made for participatory and democratic organisations aiming to incentivise participation <i>- differently to centralised banking systems -</i> and experiment with different economic models.</p>
-    <a href="https://socialwallet.dyne.org/" target="blank" class="button">Try a demo <span><img src="./arrow.png" alt="arrow" /></span></a>
+    <a href="https://socialwallet.dyne.org/" target="blank" class="button">Try a demo <span><img src="~/arrow.png" alt="arrow" /></span></a>
 		<a href="https://dcentproject.eu/wp-content/uploads/2015/05/D4.4-final_v4.pdf" target="blank" class="or inline">or <u>read the white paper</u></a>
 	</div>
 
     <div class="col-6 right">
-			<img src="./swlogo.png" alt="logo" class="logo"/>  
+			<img src="~/swlogo.png" alt="logo" class="logo"/>  
 		</div>
 	</div>
     </div>
