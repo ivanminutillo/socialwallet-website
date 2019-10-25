@@ -70,7 +70,7 @@
 <section id="modules" class="modules">
 <div class="row">
 <div class="col-12">
-  <h2 class="title"><span class="icon"><img alt="modules" src="modules.png" /></span>Modules not framework</h2>
+  <h2 class="title"><span class="icon"><img alt="modules" src="./modules.png" /></span>Modules not framework</h2>
   <p class="description">Frameworks nature is a generalist one. They often pretend to foresee user needs thanks to some kind of metrics but end up covering the most common use cases in the most predictable ways. <br /> 
 Adopting the social wallet modules as building blocks, it will be easy to deploy a basic alternative currency and cover ad-hoc needs and manage design phase complexity at the same time.</p>
 </div>
