@@ -13,8 +13,8 @@ echo "Building the static site..."
 npm run export
 
 echo "Deploying the static content to a dedicated git repo..."
-cp -R __sapper__/export/* ../ivanminutillo.github.io/
-cd ../ivanminutillo.github.io/
+cp -R __sapper__/export/* ../socialwallet-website-export/
+cd ../socialwallet-website-export/
 git add *
 git commit -m "Site update"
 git pull
